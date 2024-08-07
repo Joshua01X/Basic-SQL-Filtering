@@ -50,7 +50,7 @@ The following code below shows how I created a SQL filter to return the data of 
 
 ![image](https://github.com/user-attachments/assets/a786466e-0f75-4efd-85a4-0ac002d020c9)
 
-To start with, I retrieved the data from the employees table by executing the “FROM” operator. This time, since I only want to retrieve the data of all employees outside the “Information Technology” department, I will be using “WHERE” and “NOT” operator. This will return me the data of employees outside this department.
+I retrieved the data from the employees table by executing the “FROM” operator. This time, since I only want to retrieve the data of all employees outside the “Information Technology” department, I will be using “WHERE” and “NOT” operator. This will return me the data of employees outside this department.
 
 ## Summary
 When retrieving the required data, I utilized SQL filters to accurately extract them. I operated on tables “employees” and “log_in_attempts” because the data I needed are in these tables. I used operators “AND”, “OR”, and “NOT” to retrieve specific information. Lastly, I used operator “LIKE” together with the sign “%” to retrieve data with unspecific values or those carrying a specific pattern.
